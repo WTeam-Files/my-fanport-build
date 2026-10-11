@@ -1,0 +1,29 @@
+{
+ "files": [
+  {
+   "name": "game.wasm",
+   "parts": [
+    "game.wasm.part0",
+    "game.wasm.part1",
+    "game.wasm.part2",
+    "game.wasm.part3"
+   ],
+   "sha256": "11ca8d2c04c5e843d18ff4aea4899d72c86973c6b031df334e67c446b2ae83e0"
+  },
+  {
+   "name": "manifest.json",
+   "parts": [
+    "manifest.json.part0"
+   ],
+   "sha256": "c5d7b041dbcde22e54f97dc271a52690ea6101391bfda3fb9ecd13d8ef748c1a"
+  },
+  {
+   "name": "shaders.zip",
+   "parts": [
+    "shaders.zip.part0",
+    "shaders.zip.part1"
+   ],
+   "sha256": "56d8c76ccdfbe8e652cd44c0c2ac89f62de797e1ad8cfc2f3c7f39815e962af3"
+  }
+ ]
+}
